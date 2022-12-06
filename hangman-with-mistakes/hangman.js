@@ -7,7 +7,7 @@ function includes(char, string) {
     }
     return false;
 }
-function createDivWithText(text) {
+function createDivWithText22222222(text) {
     var div = document.createElement('div');
     div.innerHTML = text;
     return div;
